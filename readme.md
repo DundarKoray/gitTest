@@ -4,7 +4,7 @@ This to learn Git, GitHUB, html and CSS by building a portfolio.
 
 # Demo
 
-[Portfolio]
+[Portfolio] https://dundarkoray.github.io/portfolio/.
 
 # Technologies
 
