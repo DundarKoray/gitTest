@@ -1,0 +1,25 @@
+.head-wrapper {
+  display: inline-flex;
+  width: 100%;
+}
+
+.head-wrapper div {
+  width: 33%;
+  height: 200px;
+  border: 2px solid red;
+}
+
+img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.header-nav li {
+  display: inline-block;
+  margin-right: 15%;
+  list-style: none;
+}
+
+.header-nav li a {
+  text-decoration: none;
+}
