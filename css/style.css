@@ -1,3 +1,7 @@
+header {
+  background-color: antiquewhite;
+}
+
 .head-wrapper {
   display: inline-flex;
   width: 100%;
